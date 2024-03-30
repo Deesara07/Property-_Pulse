@@ -1,0 +1,91 @@
+Name: B.M. Amarasinghe
+IT Number: IT22332226
+Contribution: Login and Register User,Delete user,Update User,View User Details
+files created:	
+		jsp files:
+			userlogin.jsp
+	                userDashboard.jsp
+        	        RegisterUser.jsp
+                	DisplayUserDetails.jsp
+                Sevlet files: 
+			Loginservlet.java
+	                LogoutServlet.java
+	                RegisterServlet.java
+        	        deleteUserservlet.java
+	                Updateservlet.java
+	 	Model files:
+			user.java
+		Controller files:
+	                Usercontroller.java
+
+
+
+Name: Jayathilake D.G
+IT Number: IT22363534	
+Contribution: Payment (Add payment, update, delete, show)
+files created: 
+		 jsp files:
+		 	success.jsp
+			 unsuccess.jsp
+			 paymentinsert.jsp
+			 paymentUpdate.jsp
+			 paymentDelete.jsp
+			 paymentaccount.jsp
+
+		Servley files:
+			deletePaymentServlet.java
+			PaymentInsertServlet.java
+			PaymentUpdateServlet.java
+			ShowPaymentDetailsServlet.java
+		
+		Model files:
+			payment.java
+
+		Controller files:
+			paymentController.java
+
+
+			
+Name: Wickramthunga C.T
+IT Number: IT22902948
+Contribution: Support Ticket: Insert, Display, Delete, Update, Retrieve update support ticket details  
+files created:	
+		jsp files:
+			supportTicket.jsp
+	                viewTickets.jsp
+        	        viewTicketDetails.jsp
+                	updateTicket.jsp
+			deleteTicket.jsp
+                Sevlet files: 
+			deleteTicketServlet.java
+	                ticketServlet.java
+	                updateTicketServlet.java
+        	        viewTicketServlet.java
+	 	Model files:
+			ticket.java
+		Controller files:
+	                ticketController.java
+
+
+
+Name: R.A.D.N.Rupasinghe
+IT Number: IT22907066
+Contribution: Property Delete, Update, Display, New Property Insert
+files created:	
+		jsp files:
+			addproperty.jsp
+	                DisplayProperty.jsp
+        	        index.jsp (Home Page)
+                	UpdateProperty.jsp
+			userDashboard.jsp
+                Sevlet files: 
+			AddPropertyServlet.java
+	                DeletePropertyServlet.java
+	                DisplayAllPropServlet.java
+        	        DisplayPropByPropID.java
+	                DisplayPropertyServlet.java
+			UpdatePropertyServlet.java
+	 	Model files:
+			property.java
+		Controller files:
+	                propertyController.java
